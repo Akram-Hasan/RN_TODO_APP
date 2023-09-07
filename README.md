@@ -13,3 +13,4 @@ You can add tasks, delete them and mark as done.
 - Redux
 - Redux Toolkit
 - Redux Persist
+- Async Storage
